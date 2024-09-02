@@ -207,5 +207,5 @@ with DAG(
 
    
 
-# Define a ordem de execução das tasks (neste caso, é apenas uma)
+# Define a ordem de execução das tasks 
 get_filename_task >> delete_table >> read_csv_task >> insert_into_sql >> get_filename_task_2 >>  delete_table_Clien >> read_csv_task_2 >> insert_into_sql_2 >>  executar_procedure
