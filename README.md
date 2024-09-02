@@ -15,7 +15,7 @@ Imagine que você faz parte de uma força-tarefa de inteligência financeira, re
 Todos os dias, um grande volume de dados de clientes é gerado e precisa ser processado, transformado, e analisado cuidadosamente para garantir a segurança do sistema financeiro.
 </p>
 <p>
-Para isso, você criou uma pipeline de dados para a Carga de Clientes, onde são capturadas todas as informações da Base de Origem e transportada para uma base onde a análise de dados será posteriormente aplicada.
+Para isso, você precisa criar uma pipeline de dados para a Carga de Clientes, onde são capturadas todas as informações da Base de Origem e transportada para uma base onde a análise de dados será posteriormente aplicada.
 </p>
 <p>
 Nesse cenários especifico, vamos realizar a leitura de um arquivo .csv que é disponibilizado em um diretorio no servidor diariamente, transportar e tratar os dados no SQL Server. 
