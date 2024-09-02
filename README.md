@@ -41,3 +41,7 @@ Após o tratameto os dados serão inseridos ou atualizadas nas tabelas definitiv
 <p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/Anexos/ETL_CLIENTES.py">01. Dag ETL CLIENTES </a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/Anexos">02. Arquivo CLIENTES </a></p>
+</div> 
+
