@@ -81,5 +81,8 @@ Após o tratameto os dados serão inseridos ou atualizadas nas tabelas definitiv
 <p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/Anexos">03. Arquivo DETALHES CLIENTES (detalhe_cliente_20231019.csv) </a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/Anexos/spcl_carga_clientes.sql">04. Procedure para tratamento, inserção e edição dos dados.</a></p>
+</div>
 
 
