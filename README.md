@@ -37,3 +37,7 @@ Após o tratameto os dados serão inseridos ou atualizadas nas tabelas definitiv
 
 ### Abaixo estão a dag, os arquivos e a procedure que efetua as operações mencionadas acima.
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Git_GitHub">Sobre Git/GitHub </a></p>
+</div> 
+
