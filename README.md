@@ -38,6 +38,6 @@ Após o tratameto os dados serão inseridos ou atualizadas nas tabelas definitiv
 ### Abaixo estão a dag, os arquivos e a procedure que efetua as operações mencionadas acima.
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Git_GitHub">Sobre Git/GitHub </a></p>
+<p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/Anexos/ETL_CLIENTES.py">01. Dag ETL CLIENTES </a></p>
 </div> 
 
