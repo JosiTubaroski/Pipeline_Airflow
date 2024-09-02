@@ -3,7 +3,7 @@
 ### Cenário: ETL de Clientes
 Imagine que você faz parte de uma força-tarefa de inteligência financeira, responsável por proteger o sistema contra atividades suspeitas de lavagem de dinheiro. Todos os dias, um grande volume de dados de clientes é gerado e precisa ser processado, transformado, e analisado cuidadosamente para garantir a segurança do sistema financeiro. Para isso, você criou uma pipeline de dados para a Carga de Clientes, onde são capturadas todas as informações da Base de Origem e transportada para uma base onde a análise de dados será posteriormente aplicada.
 
- Nesse cenários especifico, vamos realizar a leitura de um arquivo .csv que é disponibilizado em um diretorio no servidor diariamente. 
+ Nesse cenários especifico, vamos realizar a leitura de um arquivo .csv que é disponibilizado em um diretorio no servidor diariamente, transportar e tratar os dados no SQL Server. 
 
 ### 1. Coleta de Dados: 
 Armazenar o Nome e a Data do arquivo que sera lido para a carga de Clientes.
